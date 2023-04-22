@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+img {
+    border: 5px white solid;
+}
+
+h3 {
+    color: white;
+}
+
+div {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+}
